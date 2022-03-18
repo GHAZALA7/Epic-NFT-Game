@@ -37,4 +37,6 @@ In this project, a user can
 4. Learnt about Pinnata and Pinned some images from Google to be used as NFT Character for Game
 5. Learnt that I need to watch some more series to make some funny games like these and learn a lot along the way!!!! 😊
 
+PS: The WebApp has been made using Replit and not done locally
+
 
